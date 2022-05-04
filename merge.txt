@@ -1,0 +1,4 @@
+컴퓨터공학창의 설계 과제
+
+이것은 merge conflict를 test하기 위한 파일입니다
+이 부분에서 merge conflict가 발생하게 하겠습니다.
